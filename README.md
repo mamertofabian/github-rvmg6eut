@@ -1,2 +1,3 @@
-# github-rvmg6eut
-Repository created by Bolt to GitHub extension
+# 2048-bolt-new
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/mamertofabian/2048-bolt-new)
